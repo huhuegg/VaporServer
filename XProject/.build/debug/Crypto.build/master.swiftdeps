@@ -1,0 +1,17 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.43 clang-900.0.22.8)"
+options: "be496dba5f6750ab900e2864b2a88bec"
+build_time: [1497344569, 495587000]
+inputs:
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Cipher/Cipher+Method.swift": !dirty [1497256317, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Cipher/Cipher.swift": !dirty [1497256317, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Essentials/ByteStream.swift": !dirty [1497256317, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Essentials/Exports.swift": !dirty [1497256317, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Essentials/Helpers.swift": !dirty [1497256317, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/HMAC/HMAC+Method.swift": !dirty [1497256317, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/HMAC/HMAC.swift": !dirty [1497256317, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Hash/Hash+Method.swift": !dirty [1497256317, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Hash/Hash.swift": !dirty [1497256317, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Random/Hash+Random.swift": !dirty [1497256317, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Random/LibreSSLError.swift": !dirty [1497256317, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Random/PseudoRandom.swift": !dirty [1497256317, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Random/Random.swift": !dirty [1497256317, 0]

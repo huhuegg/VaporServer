@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Debugging.build/master.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/debugging.git-4365319567167379684/Sources/Debugging/Debuggable.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Debugging.build/Debuggable.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Debugging.build/Debuggable.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Debugging.build/Debuggable~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Debugging.build/Debuggable.swiftdeps"
+  }
+}

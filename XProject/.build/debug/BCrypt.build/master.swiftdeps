@@ -1,0 +1,13 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.43 clang-900.0.22.8)"
+options: "0ea202b421d71da20ea52d32a3cbdea2"
+build_time: [1497257989, 612132000]
+inputs:
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/BCryptError.swift": [1497256319, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Base64.swift": [1497256319, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Convenience.swift": [1497256319, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Export.swift": [1497256319, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Hash.swift": [1497256319, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Keys.swift": [1497256319, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Parser.swift": [1497256319, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Salt.swift": [1497256319, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Serializer.swift": [1497256319, 0]

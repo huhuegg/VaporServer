@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.43 clang-900.0.22.8)"
+options: "cdc9f0520ef28ea63e6f1baef0665c1a"
+build_time: [1497344569, 491537000]
+inputs:
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/SwiftMD5.git-392693810003071315/Sources/SwiftMD5.swift": [1497344456, 0]

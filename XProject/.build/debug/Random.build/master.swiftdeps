@@ -1,0 +1,10 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.43 clang-900.0.22.8)"
+options: "f71c3e83739b6188a623ab0c447ada0e"
+build_time: [1497257986, 729826000]
+inputs:
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/random.git--3118593962244350674/Sources/Random/Array+Random.swift": [1497256312, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/random.git--3118593962244350674/Sources/Random/EmptyInitializable.swift": [1497256312, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/random.git--3118593962244350674/Sources/Random/Exports.swift": [1497256312, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/random.git--3118593962244350674/Sources/Random/OSRandom.swift": [1497256312, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/random.git--3118593962244350674/Sources/Random/RandomProtocol.swift": [1497256312, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/random.git--3118593962244350674/Sources/Random/URandom.swift": [1497256312, 0]

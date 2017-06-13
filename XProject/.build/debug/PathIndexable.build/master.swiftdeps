@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.43 clang-900.0.22.8)"
+options: "05971d63d49d211a4790f86acb450751"
+build_time: [1497257986, 729826000]
+inputs:
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/node.git-9175390252000121167/Sources/PathIndexable/PathIndexable+Subscripting.swift": [1497256315, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/node.git-9175390252000121167/Sources/PathIndexable/PathIndexable.swift": [1497256315, 0]

@@ -1,0 +1,100 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "QueryClosure"
+provides-nominal:
+provides-member:
+- ["6Fluent18QueryRepresentableP", ""]
+- ["6Fluent18QueryRepresentableP", "group"]
+- ["6Fluent18QueryRepresentableP", "and"]
+- ["6Fluent18QueryRepresentableP", "or"]
+provides-dynamic-lookup:
+depends-top-level:
+- "Entity"
+- "ExecutorRepresentable"
+- "Filter"
+- "Query"
+- "QueryClosure"
+- "QueryRepresentable"
+depends-member:
+- !private ["s9AnyObjectP", "executor"]
+- !private ["s9AnyObjectP", "filter"]
+- !private ["s9AnyObjectP", "filters"]
+- !private ["s9AnyObjectP", "init"]
+- ["s23CustomStringConvertibleP", "Relation"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s9EquatableP", "and"]
+- !private ["s9EquatableP", "or"]
+- ["6Fluent21ExecutorRepresentableP", "E"]
+- ["6Fluent21ExecutorRepresentableP", "Filter"]
+- ["6Fluent21ExecutorRepresentableP", "Query"]
+- ["6Fluent21ExecutorRepresentableP", "QueryClosure"]
+- !private ["6Fluent21ExecutorRepresentableP", "executor"]
+- !private ["6Fluent21ExecutorRepresentableP", "filter"]
+- !private ["6Fluent21ExecutorRepresentableP", "filters"]
+- !private ["6Fluent21ExecutorRepresentableP", "group"]
+- !private ["6Fluent21ExecutorRepresentableP", "init"]
+- !private ["6Fluent21ExecutorRepresentableP", "makeQuery"]
+- ["6Fluent6FilterV", "Relation"]
+- !private ["6Fluent6FilterV", "init"]
+- !private ["s8HashableP", "and"]
+- !private ["s8HashableP", "or"]
+- !private ["6Fluent6FilterV6MethodO", "group"]
+- !private ["6Fluent5QueryC", "deinit"]
+- !private ["6Fluent5QueryC", "executor"]
+- !private ["6Fluent5QueryC", "filter"]
+- !private ["6Fluent5QueryC", "filters"]
+- !private ["6Fluent5QueryC", "init"]
+- ["6Fluent18QueryRepresentableP", "E"]
+- ["6Fluent18QueryRepresentableP", "ExecutorRepresentable"]
+- ["6Fluent18QueryRepresentableP", "Filter"]
+- ["6Fluent18QueryRepresentableP", "Query"]
+- ["6Fluent18QueryRepresentableP", "QueryClosure"]
+- ["6Fluent18QueryRepresentableP", "and"]
+- !private ["6Fluent18QueryRepresentableP", "executor"]
+- !private ["6Fluent18QueryRepresentableP", "filter"]
+- !private ["6Fluent18QueryRepresentableP", "filters"]
+- ["6Fluent18QueryRepresentableP", "group"]
+- !private ["6Fluent18QueryRepresentableP", "init"]
+- !private ["6Fluent18QueryRepresentableP", "makeQuery"]
+- ["6Fluent18QueryRepresentableP", "or"]
+- !private ["6Fluent6FilterV8RelationO", "and"]
+- !private ["6Fluent6FilterV8RelationO", "or"]
+depends-nominal:
+- !private "s9AnyObjectP"
+- "s23CustomStringConvertibleP"
+- !private "s9EquatableP"
+- "6Fluent21ExecutorRepresentableP"
+- "6Fluent6FilterV"
+- !private "s8HashableP"
+- !private "6Fluent6FilterV6MethodO"
+- !private "6Fluent5QueryC"
+- "6Fluent18QueryRepresentableP"
+- !private "6Fluent6FilterV8RelationO"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/libc.swiftmodule"
+- "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Node.swiftmodule"
+- "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/PathIndexable.swiftmodule"
+- "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Core.swiftmodule"
+- "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/SQLite.swiftmodule"
+- "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Debugging.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Random.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Bits.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/sqlite.git--8232814251736334455/Sources/CSQLite/include/sqlite3.h"
+- "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/CHTTP.build/module.modulemap"
+- "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/CSQLite.build/module.modulemap"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "71305138925e2bb27421fe1ee06c0c87"

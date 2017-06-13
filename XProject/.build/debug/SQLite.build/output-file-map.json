@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/SQLite.build/master.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/sqlite.git--8232814251736334455/Sources/SQLite/SQLite+Result.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/SQLite.build/SQLite+Result.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/SQLite.build/SQLite+Result.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/SQLite.build/SQLite+Result~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/SQLite.build/SQLite+Result.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/sqlite.git--8232814251736334455/Sources/SQLite/SQLite+Statement.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/SQLite.build/SQLite+Statement.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/SQLite.build/SQLite+Statement.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/SQLite.build/SQLite+Statement~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/SQLite.build/SQLite+Statement.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/sqlite.git--8232814251736334455/Sources/SQLite/SQLite.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/SQLite.build/SQLite.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/SQLite.build/SQLite.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/SQLite.build/SQLite~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/SQLite.build/SQLite.swiftdeps"
+  }
+}

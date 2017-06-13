@@ -1,0 +1,20 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.43 clang-900.0.22.8)"
+options: "7429b7f24762901c4d80933a539ca89a"
+build_time: [1497344570, 696987000]
+inputs:
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentTester/Atom.swift": [1497256317, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentTester/Compound.swift": [1497256317, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentTester/Student.swift": [1497256317, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentTester/Tester+Chunk.swift": [1497256317, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentTester/Tester+CustomKeys.swift": [1497256317, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentTester/Tester+ForeignKey.swift": [1497256317, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentTester/Tester+Index.swift": [1497256317, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentTester/Tester+InsertAndFind.swift": [1497256317, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentTester/Tester+Paginate.swift": [1497256317, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentTester/Tester+PivotsAndRelations.swift": [1497256317, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentTester/Tester+Schema.swift": [1497256317, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentTester/Tester+SoftDelete.swift": [1497256317, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentTester/Tester+Timestamps.swift": [1497256317, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentTester/Tester+Transaction.swift": [1497256317, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentTester/Tester+Utilities.swift": [1497256317, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentTester/Tester.swift": [1497256317, 0]

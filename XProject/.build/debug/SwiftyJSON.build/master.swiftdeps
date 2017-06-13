@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.43 clang-900.0.22.8)"
+options: "3e6bd23803da59f9d5c86fe85dd4f3af"
+build_time: [1497324578, 99500000]
+inputs:
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/SwiftyJSON.git-3043514560129222422/Source/SwiftyJSON.swift": [1497324572, 0]

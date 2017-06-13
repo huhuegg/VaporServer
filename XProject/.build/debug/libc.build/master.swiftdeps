@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.43 clang-900.0.22.8)"
+options: "9599dcc020bc7f5a26497db05d6150b5"
+build_time: [1497257984, 416388000]
+inputs:
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/core.git-9210800844849382486/Sources/libc/libc.swift": [1497256313, 0]

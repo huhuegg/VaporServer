@@ -1,0 +1,16 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.43 clang-900.0.22.8)"
+options: "a53f586babe4faaaa867a89de7ef69e1"
+build_time: [1497344569, 491658000]
+inputs:
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/Certificates.swift": !dirty [1497256318, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/ClientSocket.swift": !dirty [1497256318, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/Context.swift": !dirty [1497256318, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/Error.swift": !dirty [1497256318, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/Exports.swift": !dirty [1497256318, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/InternetSocket.swift": !dirty [1497256318, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/Mode.swift": !dirty [1497256318, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/ReadableSocket.swift": !dirty [1497256318, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/ServerSocket.swift": !dirty [1497256318, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/Socket.swift": !dirty [1497256318, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/Utilities.swift": !dirty [1497256318, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/WriteableSocket.swift": !dirty [1497256318, 0]

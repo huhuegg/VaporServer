@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.43 clang-900.0.22.8)"
+options: "2b162eba2cf4a0bf1822badeae29a3bf"
+build_time: [1497324594, 953420000]
+inputs:
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/sqlite.git--8232814251736334455/Sources/SQLite/SQLite+Result.swift": [1497256318, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/sqlite.git--8232814251736334455/Sources/SQLite/SQLite+Statement.swift": [1497256318, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/sqlite.git--8232814251736334455/Sources/SQLite/SQLite.swift": [1497256318, 0]

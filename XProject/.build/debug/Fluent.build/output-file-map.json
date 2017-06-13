@@ -1,0 +1,389 @@
+{
+  "": {
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/master.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Database/Connection.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Connection.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Database/Connection.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Connection~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Connection.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Database/Database.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Database.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Database/Database.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Database~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Database.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Database/Driver.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Driver.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Database/Driver.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Driver~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Driver.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Database/Executor.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Executor.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Database/Executor.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Executor~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Executor.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Database/ThreadConnectionPool.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/ThreadConnectionPool.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Database/ThreadConnectionPool.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/ThreadConnectionPool~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/ThreadConnectionPool.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Database/Transactable.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Transactable.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Database/Transactable.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Transactable~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Transactable.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Entity/Dirty.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Dirty.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Entity/Dirty.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Dirty~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Dirty.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Entity/Entity.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Entity.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Entity/Entity.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Entity~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Entity.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Entity/EntityError.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/EntityError.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Entity/EntityError.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/EntityError~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/EntityError.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Entity/KeyNamingConvention.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/KeyNamingConvention.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Entity/KeyNamingConvention.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/KeyNamingConvention~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/KeyNamingConvention.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Entity/SoftDeletable.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/SoftDeletable.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Entity/SoftDeletable.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/SoftDeletable~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/SoftDeletable.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Entity/Storage.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Storage.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Entity/Storage.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Storage~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Storage.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Entity/Timestampable.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Timestampable.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Entity/Timestampable.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Timestampable~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Timestampable.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Pagination/Page.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Page.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Pagination/Page.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Page~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Page.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Pagination/Paginatable.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Paginatable.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Pagination/Paginatable.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Paginatable~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Paginatable.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Pagination/PaginationError.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/PaginationError.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Pagination/PaginationError.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/PaginationError~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/PaginationError.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Pagination/Query+Page.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Query+Page.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Pagination/Query+Page.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Query+Page~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Query+Page.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Pivot/DoublePivot.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/DoublePivot.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Pivot/DoublePivot.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/DoublePivot~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/DoublePivot.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Pivot/Pivot.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Pivot.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Pivot/Pivot.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Pivot~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Pivot.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Pivot/PivotError.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/PivotError.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Pivot/PivotError.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/PivotError~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/PivotError.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Pivot/PivotProtocol.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/PivotProtocol.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Pivot/PivotProtocol.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/PivotProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/PivotProtocol.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Preparation/Database+Preparation.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Database+Preparation.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Preparation/Database+Preparation.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Database+Preparation~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Database+Preparation.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Preparation/Migration.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Migration.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Preparation/Migration.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Migration~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Migration.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Preparation/Preparation.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Preparation.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Preparation/Preparation.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Preparation~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Preparation.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Preparation/PreparationError.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/PreparationError.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Preparation/PreparationError.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/PreparationError~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/PreparationError.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Query/Action.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Action.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Query/Action.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Action~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Action.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Query/Aggregate.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Aggregate.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Query/Aggregate.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Aggregate~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Aggregate.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Query/Chunk.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Chunk.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Query/Chunk.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Chunk~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Chunk.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Query/ComputedField.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/ComputedField.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Query/ComputedField.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/ComputedField~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/ComputedField.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Query/Distinct.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Distinct.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Query/Distinct.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Distinct~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Distinct.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Query/Filter/Comparison.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Comparison.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Query/Filter/Comparison.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Comparison~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Comparison.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Query/Filter/Filter.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Filter.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Query/Filter/Filter.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Filter~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Filter.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Query/Filter/Query+Filter.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Query+Filter.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Query/Filter/Query+Filter.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Query+Filter~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Query+Filter.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Query/Filter/Query+Group.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Query+Group.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Query/Filter/Query+Group.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Query+Group~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Query+Group.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Query/Filter/Scope.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Scope.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Query/Filter/Scope.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Scope~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Scope.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Query/Join.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Join.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Query/Join.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Join~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Join.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Query/Limit.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Limit.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Query/Limit.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Limit~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Limit.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Query/Log.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Log.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Query/Log.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Log~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Log.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Query/Query.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Query.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Query/Query.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Query~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Query.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Query/QueryError.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/QueryError.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Query/QueryError.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/QueryError~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/QueryError.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Query/QueryRepresentable.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/QueryRepresentable.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Query/QueryRepresentable.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/QueryRepresentable~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/QueryRepresentable.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Query/Raw.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Raw.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Query/Raw.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Raw~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Raw.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Query/Sort.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Sort.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Query/Sort.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Sort~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Sort.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Relations/Children.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Children.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Relations/Children.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Children~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Children.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Relations/Parent.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Parent.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Relations/Parent.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Parent~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Parent.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Relations/RelationError.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/RelationError.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Relations/RelationError.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/RelationError~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/RelationError.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Relations/Siblings.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Siblings.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Relations/Siblings.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Siblings~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Siblings.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Row/Row.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Row.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Row/Row.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Row~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Row.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Row/RowContext.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/RowContext.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Row/RowContext.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/RowContext~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/RowContext.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Row/RowConvertible.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/RowConvertible.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Row/RowConvertible.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/RowConvertible~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/RowConvertible.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/SQL/GeneralSQLSerializer.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/GeneralSQLSerializer.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/SQL/GeneralSQLSerializer.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/GeneralSQLSerializer~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/GeneralSQLSerializer.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/SQL/SQLSerializer.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/SQLSerializer.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/SQL/SQLSerializer.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/SQLSerializer~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/SQLSerializer.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/SQLite/SQLiteDriver.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/SQLiteDriver.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/SQLite/SQLiteDriver.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/SQLiteDriver~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/SQLiteDriver.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/SQLite/SQLiteSerializer.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/SQLiteSerializer.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/SQLite/SQLiteSerializer.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/SQLiteSerializer~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/SQLiteSerializer.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Schema/Builder.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Builder.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Schema/Builder.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Builder~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Builder.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Schema/Creator.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Creator.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Schema/Creator.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Creator~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Creator.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Schema/Database+Schema.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Database+Schema.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Schema/Database+Schema.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Database+Schema~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Database+Schema.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Schema/Field.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Field.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Schema/Field.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Field~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Field.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Schema/ForeignKey.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/ForeignKey.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Schema/ForeignKey.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/ForeignKey~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/ForeignKey.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Schema/IdentifierType.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/IdentifierType.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Schema/IdentifierType.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/IdentifierType~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/IdentifierType.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Schema/Index.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Index.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Schema/Index.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Index~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Index.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Schema/Modifier.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Modifier.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Schema/Modifier.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Modifier~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Modifier.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Utilities/Exports.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Exports.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Utilities/Exports.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Exports.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/fluent.git-6251908308727715749/Sources/Fluent/Utilities/UUID.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/UUID.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/Utilities/UUID.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/UUID~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/Fluent.build/UUID.swiftdeps"
+  }
+}

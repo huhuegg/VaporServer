@@ -1,0 +1,13 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.43 clang-900.0.22.8)"
+options: "b02c4c175d0368abf52e1865d52f1700"
+build_time: [1497324578, 98230000]
+inputs:
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSON+Bytes.swift": [1497256316, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSON+Equatable.swift": [1497256316, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSON+Fuzzy.swift": [1497256316, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSON+Parse.swift": [1497256316, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSON+Serialize.swift": [1497256316, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSON.swift": [1497256316, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSONContext.swift": [1497256316, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSONRepresentable.swift": [1497256316, 0]
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/json.git-9153249592855998091/Sources/JSON/Sequence+Convertible.swift": [1497256316, 0]

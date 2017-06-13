@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/libc.build/master.swiftdeps"
+  },
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/core.git-9210800844849382486/Sources/libc/libc.swift": {
+    "dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/libc.build/libc.d",
+    "object": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/libc.build/libc.swift.o",
+    "swiftmodule": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/libc.build/libc~partial.swiftmodule",
+    "swift-dependencies": "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/debug/libc.build/libc.swiftdeps"
+  }
+}

@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.43 clang-900.0.22.8)"
+options: "87fd77b2799177d75c2fd641ed53f456"
+build_time: [1497257977, 659915000]
+inputs:
+  "/Users/huhuegg/Desktop/Source/VaporServer/XProject/.build/checkouts/debugging.git-4365319567167379684/Sources/Debugging/Debuggable.swift": [1497256316, 0]
